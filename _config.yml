@@ -1,0 +1,13 @@
+title: "Milestones 1-2 | arXiv Data Pipeline"
+author: "HCMUS | Introduction to Data Science | Student ID: 24127061"
+
+exclude_patterns:
+  - "_build"
+  - ".venv"
+
+html:
+  extra_footer: ""
+
+sphinx:
+  extra_extensions:
+    - sphinxcontrib.mermaid

@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Jupyter Book build output
+_build/
+.jupyter_cache/
+
+# Generated Sphinx configuration
+conf.py
+
+# Python cache
+__pycache__/
+*.pyc
