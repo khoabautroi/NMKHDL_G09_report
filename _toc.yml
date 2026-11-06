@@ -2,3 +2,4 @@ format: jb-book
 root: index
 chapters:
   - file: milestone1/milestone1
+  - file: milestone2/milestone2
